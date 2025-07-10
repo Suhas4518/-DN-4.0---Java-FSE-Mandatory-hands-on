@@ -1,1 +1,1 @@
-# Cognizant Java FSE - Week 1 Hands-On Solutions
+# Cognizant Java FSE - Hands-On Solutions
